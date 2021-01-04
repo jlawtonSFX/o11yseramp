@@ -44,7 +44,7 @@ Install APM to monitor a sample application on your local machine
 Complete the Observability for Modern Apps Workshop (infrastructure and APM): https://signalfx.github.io/observability-workshop/latest/
 - Review w/ Mentor
 
-# Week 4 - Splunk On Call
+# Week 4 - Splunk On Call & Synthetics
 Review Splunk On Call Preso: https://docs.google.com/presentation/d/1ZRD7Lz6-MAFAgKwQhX8mxYEe0SOEHJoeByLxwQ1onYc/edit#slide=id.p1
 
 Review VictorOps Deal Process: https://docs.google.com/presentation/d/1D9uqbuIBfxVCwcwJ4vTNfD326h2LL2Vj5GQdutIR6Jc/edit
@@ -58,6 +58,23 @@ Review Splunk On Call Demo: https://splunk.zoom.us/rec/play/-TYyk_P7aKlp4QXR6Ylo
 
 Study demo and Certify with your mentor and manager on Splunk On Call
 
+Review Splunk Sythetics Gold Demo: https://docs.google.com/presentation/d/1VF2Egs9c3x8fljcW9ie4TDAQDkr--5RBLnSzRNJUpkA/edit?usp=sharing
+
+Study demo and Certify with your mentor and manager on Splunk Synthetics
+
+# Week 5 - Processes
+Review Lockout Document with mentor: https://docs.google.com/spreadsheets/d/1snTo5ugYSzR9y3x4gszs5cogbkNpBrRCgzJD2esGHhA/edit?usp=sharing
+
+Review CAP Ticket Processes with mentor:
+- Activating APM
+- Activating / Extending Trials
+- Increasing Org Allotment limits (hosts, containers, custom metrics, etc.)
+
+Review SWAT Ticket Processes with mentor
+
+Review Feed Ticket Processes with mentor
+
+Review Splunk Ideas (feature requests) processes with mentor
 
 # SE Resources
 Review the latest posts on the Splunk O11y blog: https://signalfx.com/blog/
@@ -88,7 +105,6 @@ Splunk Fundamentals I - Instructor On Demand: https://education.splunk.com/cours
 Splunk Fundamentals II - Instructor On Demand: https://education.splunk.com/course/splunk-7x-fundamentals-part-2-iod
 
 # Misc.
-Review Lockout Document with mentor:  https://docs.google.com/spreadsheets/d/1snTo5ugYSzR9y3x4gszs5cogbkNpBrRCgzJD2esGHhA/edit?usp=sharing
 
 ## Custom Search Engine Setup for Chrome:
 
