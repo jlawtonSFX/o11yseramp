@@ -38,6 +38,8 @@ Start reviewing APM training:  http://signalfuse.atlassian.net/wiki/spaces/SE/pa
 
 Shadow at least 3 APM customer meetings
 
+Review APM Competitive Material: https://fieldenablement.splunk.com/content/dam/splunk-gfe/content/Product/signalfx/APM-Competitive-Takeout-Sales-Play-Slide.pptx
+
 Install APM to monitor a sample application on your local machine
 - Review w/ Mentor
 
@@ -50,6 +52,12 @@ Review Splunk On Call Preso: https://docs.google.com/presentation/d/1ZRD7Lz6-MAF
 Review VictorOps Deal Process: https://docs.google.com/presentation/d/1D9uqbuIBfxVCwcwJ4vTNfD326h2LL2Vj5GQdutIR6Jc/edit
 
 Shadow at least 3 Splunk On Call customer meetings
+
+Review Splunk On-Call Competitive Content
+- xMatters: https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-xMatters.html
+- PagerDuty: https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-PagerDuty.html
+- OpsGenie: https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-OpsGenie.html
+- ServiceNow: https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-ServiceNow.html
 
 Complete the Observability for Modern Apps Workshop (On Call): https://signalfx.github.io/observability-workshop/latest/
 - Review w/ Mentor
