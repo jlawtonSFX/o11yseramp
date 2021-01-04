@@ -1,2 +1,2 @@
-# o11yseramp
+# O11y SE Ramp Guide
 The purpose of this plan is to assist you with establishing the key elements that are needed to become a successful SE at SignalFx.  This 8 week ramp up plan is designed to enable all new SE’s to have the proper time to fully understand the SignalFX solution before being fully self-sufficient.  This ramp up plan should be used as a guideline and many SE's will likely complete this sooner.
