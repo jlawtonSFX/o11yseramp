@@ -19,7 +19,7 @@ Deliver Gold Standard Demo for certification to your team and manager
 Study and certify with mentor and manager on Service Bureau demo: https://drive.google.com/file/d/1E-vrAJJapu078wnn9Uy3ykthgHI2b6NX/view?usp=sharing
 
 # Week 2 - Infrastructure Metric Monitoring
-Review recording of Architecture presentation here:  Architecture POV Talk Track 
+Review recording of Architecture presentation here: https://drive.google.com/file/d/1FARqNRVBQgsmQpLH-w3rX2hJFB1BioTs/view?usp=sharing 
 
 Install the Splunk O11y Smart Agent on your local machine and see the current metrics of your MacBook in Splunk IMM: https://github.com/signalfx/signalfx-agent#signalfx-smart-agent
 - Review w/ Mentor
