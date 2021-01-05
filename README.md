@@ -31,6 +31,8 @@ Review with mentor the following topics:
 
 Shadow at least 3 IMM focused customer meetings
 
+Complete the Observability for Modern Apps Workshop (Get Data In, Dashboards, and Detectors Modules): https://signalfx.github.io/observability-workshop/latest/
+
 Certify with your mentor and manager on the architecture portion of the POV
 
 # Week 3 - Application Performance Monitoring
@@ -43,7 +45,7 @@ Review APM Competitive Material: https://fieldenablement.splunk.com/content/dam/
 Install APM to monitor a sample application on your local machine
 - Review w/ Mentor
 
-Complete the Observability for Modern Apps Workshop (infrastructure and APM): https://signalfx.github.io/observability-workshop/latest/
+Complete the Observability for Modern Apps Workshop (Monitoring as Code, uAPM, and Service Bureau Modules): https://signalfx.github.io/observability-workshop/latest/
 - Review w/ Mentor
 
 # Week 4 - Splunk On Call & Synthetics
@@ -59,7 +61,7 @@ Review Splunk On-Call Competitive Content
 - OpsGenie: https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-OpsGenie.html
 - ServiceNow: https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-ServiceNow.html
 
-Complete the Observability for Modern Apps Workshop (On Call): https://signalfx.github.io/observability-workshop/latest/
+Complete the Observability for Modern Apps Workshop (On Call Section): https://signalfx.github.io/observability-workshop/latest/
 - Review w/ Mentor
 
 Review Splunk On Call Demo: https://splunk.zoom.us/rec/play/-TYyk_P7aKlp4QXR6YloYTeNEQyBlvAj-M16LooS48wBUvLFGg078KM9Uw0UcbNkTfy_kK31P4UTx24f.c6IpxLne78NIkqk0?continueMode=true
