@@ -21,6 +21,8 @@ Study and certify with mentor and manager on Service Bureau demo: https://drive.
 # Week 2 - Infrastructure Metric Monitoring
 Review recording of Architecture presentation here: https://drive.google.com/file/d/1FARqNRVBQgsmQpLH-w3rX2hJFB1BioTs/view?usp=sharing 
 
+Architecture POV Slide: https://docs.google.com/presentation/d/109NBgJjxeLxza3SBr0_jrBA610eIcat3HZXwArseh94/edit?usp=sharing
+
 Install the Splunk O11y Smart Agent on your local machine and see the current metrics of your MacBook in Splunk IMM: https://github.com/signalfx/signalfx-agent#signalfx-smart-agent
 - Review w/ Mentor
 
