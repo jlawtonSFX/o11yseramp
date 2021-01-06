@@ -1,5 +1,5 @@
 # O11y SE Ramp Guide
-The purpose of this plan is to assist you with establishing the key elements that are needed to become a successful SE at Splunk O11y.  This 4 week ramp up plan is designed to enable all new SE’s to have the proper time to fully understand the Splunk O11y solution before being fully self-sufficient.  This ramp up plan should be used as a guideline and many SE's will likely complete this sooner.
+The purpose of this plan is to assist you with establishing the key elements that are needed to become a successful SE at Splunk O11y.  This 5 week ramp up plan is designed to enable all new SE’s to have the proper time to fully understand the Splunk O11y solution before being fully self-sufficient.  This ramp up plan should be used as a guideline and many SE's will likely complete this sooner.
 
 # Week 1 - Gold Standard Demo
 Complete all items in New SE First Week Checklist: https://signalfuse.atlassian.net/wiki/spaces/SE/pages/890667257/New+SE+First+Week+Checklist
