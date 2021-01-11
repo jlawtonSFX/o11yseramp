@@ -40,6 +40,8 @@ Certify with your mentor and manager on the architecture portion of the POV
 # Week 3 - Application Performance Monitoring
 Review [APM Training](http://signalfuse.atlassian.net/wiki/spaces/SE/pages/851476495/May+2019+APM+Training)
 
+Review [APM Deployment Architecture](https://docs.signalfx.com/en/latest/apm/apm-getting-started/apm-architecture-overview.html#deploy-the-smart-agent-for-splunk-apm)
+
 Shadow at least 3 APM customer meetings
 
 Review [APM Competitive Material](https://fieldenablement.splunk.com/content/dam/splunk-gfe/content/Product/signalfx/APM-Competitive-Takeout-Sales-Play-Slide.pptx)
