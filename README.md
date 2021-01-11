@@ -38,7 +38,7 @@ Complete the Observability for Modern Apps Workshop (Get Data In, Dashboards, an
 Certify with your mentor and manager on the architecture portion of the POV
 
 # Week 3 - Application Performance Monitoring
-Start reviewing APM training:  http://signalfuse.atlassian.net/wiki/spaces/SE/pages/851476495/May+2019+APM+Training
+Review APM training:  http://signalfuse.atlassian.net/wiki/spaces/SE/pages/851476495/May+2019+APM+Training
 
 Shadow at least 3 APM customer meetings
 
