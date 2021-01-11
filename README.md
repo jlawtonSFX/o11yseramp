@@ -38,7 +38,7 @@ Complete the [Observability for Modern Apps Workshop (Get Data In, Dashboards, a
 Certify with your mentor and manager on the architecture portion of the POV
 
 # Week 3 - Application Performance Monitoring
-Review [APM Training](http://signalfuse.atlassian.net/wiki/spaces/SE/pages/851476495/May+2019+APM+Training)
+Review [APM Training Videos](https://drive.google.com/drive/folders/1vUbI_xbPe5J9HVdhAPSglX3kVI2g9NEb?usp=sharing)
 
 Review [APM Deployment Architecture](https://docs.signalfx.com/en/latest/apm/apm-getting-started/apm-architecture-overview.html#deploy-the-smart-agent-for-splunk-apm)
 
