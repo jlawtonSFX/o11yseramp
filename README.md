@@ -42,6 +42,8 @@ Review [APM Training Videos](https://drive.google.com/drive/folders/1vUbI_xbPe5J
 
 Review [APM Deployment Architecture](https://docs.signalfx.com/en/latest/apm/apm-getting-started/apm-architecture-overview.html#deploy-the-smart-agent-for-splunk-apm)
 
+Review [APM Case Studies](https://drive.google.com/drive/folders/1EHuZI_9Fmtr5KF8XhEOLZrRizc8MNdn8?usp=sharing) 
+
 Shadow at least 3 APM customer meetings
 
 Review [APM Competitive Material](https://fieldenablement.splunk.com/content/dam/splunk-gfe/content/Product/signalfx/APM-Competitive-Takeout-Sales-Play-Slide.pptx)
