@@ -4,7 +4,7 @@ Working config example based on the [Kubernetes Advanced Installation documentat
 
 
 # Instructions 
-> Using [Minikube](https://minikube.sigs.k8s.io/docs/)v1.5.2 on Darwin 10.14.6
+> Using [Minikube](https://minikube.sigs.k8s.io/docs/) v1.5.2 on Darwin 10.14.6
 
 1. On the host(or server) that typically runs kubectl, run this command to create a Kubernetes secret (named signalfx-agent) containing your organization access token (named access-token):
 
