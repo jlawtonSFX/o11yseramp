@@ -10,7 +10,7 @@ Working config example based on the [Kubernetes Advanced Installation documentat
 
     `$ kubectl create secret generic --from-literal access-token=MY_ACCESS_TOKEN signalfx-agent`
 
-2. Download these [configuration](https://github.com/jlawtonSFX/o11yseramp/tree/main/Week%202/Kubernetes%20Advanced%20Installation) files from the Github repository to the machine on which you usually run kubectl, and modify them as indicated under each filename below.
+2. Download these [configuration](https://github.com/jlawtonSFX/o11yseramp/tree/main/Week%202/Kubernetes%20Advanced%20Installation) files from the Github repository to the machine on which you usually run kubectl, and modify them as indicated.
 
 - In configmap.yaml:
   - You need to assign a unique name to each Kubernetes cluster; choose a name and use a text editor to replace `default` with the name you choose.
