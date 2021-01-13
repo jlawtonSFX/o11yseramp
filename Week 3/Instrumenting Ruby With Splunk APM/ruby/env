@@ -1,0 +1,4 @@
+export SIGNALFX_INGEST_URL="http://localhost:9080/v1/trace"
+export SIGNALFX_SERVICE_NAME="signalfx-ruby-tracing"
+export SIGNALFX_SPAN_TAGS="alex:test"
+
