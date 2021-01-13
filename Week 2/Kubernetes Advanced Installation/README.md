@@ -18,7 +18,7 @@ Working config example based on the [Kubernetes Advanced Installation documentat
 
 3. Run this command on your Kubernetes cluster.
 
-   `cat *.yaml | kubectl apply -f-`
+   `$ cat *.yaml | kubectl apply -f-`
   
 
 
