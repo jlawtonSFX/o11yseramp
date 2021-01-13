@@ -11,6 +11,11 @@ Working config example based on the [Kubernetes Advanced Installation documentat
     `$ kubectl create secret generic --from-literal access-token=MY_ACCESS_TOKEN signalfx-agent`
     
     > Find Your Access Token
+    > 1. Open the Settings menu at the far right of the navigation bar.
+    > 2. Hover over Organization Settings, then select Access Tokens.
+    > 3. To find an access token in a large list, start entering its name in the search box. Infrastructure Monitoring returns matching results.
+    > 4. To look at the details for an access token, click the expand icon to the left of the token name.
+    > 5. If you’re an organization administrator, the Actions menu appears at the right side of the token listing. You can select token actions from this menu.
     
     ![token](access_token11.png)
 
