@@ -1,7 +1,7 @@
 
 
 
-# Instrumenting Ruby with SignalFX
+# Instrumenting Ruby with Splunk APM
 > Environment:
 > 
 > MacOS Catalina 10.15.7
@@ -9,7 +9,7 @@
 > Docker Version:          20.10.0
 
 
-- [Instrumenting Ruby with SignalFX](#instrumenting-ruby-with-signalfx)
+- [Instrumenting Ruby with Splunk APM](#instrumenting-ruby-with-signalfx)
   - [Checkout signalfx-demos repo](#checkout-signalfx-demos-repo)
   - [Install & configure the SignalFX agent](#install--configure-the-signalfx-agent)
   - [Run the agent](#run-the-agent)
@@ -25,15 +25,15 @@
 
 `git clone https://github.com/alexeadem/splunk-demos.git` 
 
-## Install & configure the SignalFX agent
+## Install & configure the Smart Agent
 
 ```
 cd docker
 ```
 
-- Set SignalFX token and hostname
+- Set Splunk token and hostname
 
-- Get your token from the SignalFx UI
+- Get your token from the Splunk UI
 
 `https://app.signalfx.com/`
 
@@ -165,7 +165,7 @@ cd ruby
 `http://localhost:4570/`
 
 
-## Analyze the traces in SignalFX
+## Analyze the traces in Splunk APM
 
 ![agent](app_traces.png)
 
