@@ -34,7 +34,7 @@ Working config example based on the [Kubernetes Advanced Installation documentat
 - In clusterrolebinding.yaml, configmap-role.yaml, and configmap-rolebinding.yaml:
   - Change `default` or the service account token reference to the namespace in which you are deploying the agent. For example, cloudwatch.
   
-    ![clusterrolebinding.yaml](clusterrolebinding.png)
+    ![clusterrolebinding](clusterrolebinding.png)
 
 3. Run this command on your Kubernetes cluster.
 
