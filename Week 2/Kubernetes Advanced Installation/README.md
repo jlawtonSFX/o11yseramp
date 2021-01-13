@@ -12,9 +12,9 @@ Working config example based on the [Kubernetes Advanced Installation documentat
     
     > Find Your Access Token
     
-    ![token](token-1.png)
+    ![token](access_token1.png)
 
-    ![token](token-2.png)
+    ![token](access_token2.png)
     
     
 
