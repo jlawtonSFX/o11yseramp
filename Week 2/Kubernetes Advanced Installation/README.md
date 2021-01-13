@@ -29,6 +29,8 @@ Working config example based on the [Kubernetes Advanced Installation documentat
   - You need to assign a unique name to each Kubernetes cluster; choose a name and use a text editor to replace `seramp1` with the name you choose.
   - By default, the Smart Agent will send data to the `us0` realm. If you are not in this realm, you will need to explicitly set the `signalFxRealm` option in the agent configuration. To determine if you are in a different realm, check your profile page in the SignalFx web application.
   
+    ![configmap](configmap.png)
+  
 - In clusterrolebinding.yaml, configmap-role.yaml, and configmap-rolebinding.yaml:
   - Change `default` or the service account token reference to the namespace in which you are deploying the agent. For example, cloudwatch.
 
