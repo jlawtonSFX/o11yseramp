@@ -46,7 +46,7 @@ Review [APM Case Studies](https://drive.google.com/drive/folders/1EHuZI_9Fmtr5KF
 
 Shadow at least 3 APM customer meetings
 
-Review [APM Competitive Material](https://fieldenablement.splunk.com/content/dam/splunk-gfe/content/Product/signalfx/APM-Competitive-Takeout-Sales-Play-Slide.pptx)
+Review [APM Competitive Material](https://learning.splunk.com/learn/course/3049/play/15660/signalfx-infrastructure-monitoring-apm-competitors-cec-course)
 
 Install APM to monitor a sample application on your local machine
 - Review w/ Mentor
