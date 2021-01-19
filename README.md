@@ -57,7 +57,7 @@ Complete the [Observability for Modern Apps Workshop (Monitoring as Code, uAPM, 
 # Week 4 - Splunk On Call & Synthetics
 Review [Splunk On Call Preso](https://docs.google.com/presentation/d/1ZRD7Lz6-MAFAgKwQhX8mxYEe0SOEHJoeByLxwQ1onYc/edit#slide=id.p1)
 
-Review [VictorOps Deal Process](https://docs.google.com/presentation/d/1D9uqbuIBfxVCwcwJ4vTNfD326h2LL2Vj5GQdutIR6Jc/edit)
+Review [Splunk On Call Deal Process](https://docs.google.com/presentation/d/1D9uqbuIBfxVCwcwJ4vTNfD326h2LL2Vj5GQdutIR6Jc/edit)
 
 Shadow at least 3 Splunk On Call customer meetings
 
