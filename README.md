@@ -74,6 +74,8 @@ Review [Splunk On Call Demo](https://splunk.zoom.us/rec/play/-TYyk_P7aKlp4QXR6Yl
 
 Study demo and Certify with your mentor and manager on Splunk On Call
 
+Review [Splunk Synthetics Overview](https://splunk.zoom.us/rec/play/ZqDBb5OnuyAU2kM7EsEZbowkZvsi6UQjLFEc96ik3VV8DxzDCYnq1BahYl60Oa_lqFXkLzRtC2L_Ck7x.WWOiukXT4WLMsxjt?startTime=1611168335000)
+
 Review [Splunk Sythetics Gold Demo Script](https://docs.google.com/presentation/d/1VF2Egs9c3x8fljcW9ie4TDAQDkr--5RBLnSzRNJUpkA/edit?usp=sharing)
 
 Study demo and Certify with your mentor and manager on Splunk Synthetics
