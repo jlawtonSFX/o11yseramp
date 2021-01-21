@@ -114,6 +114,12 @@ Review [Splunk Sythetics Gold Demo Script](https://docs.google.com/presentation/
 Study demo and Certify with your mentor and manager on Splunk Synthetics
 
 # Week 5 - Processes
+
+Slack Channels (for questions and assistance)
+- #se-private-o11y
+- #o11y-security
+- #seal
+
 Review [Lockout Document](https://docs.google.com/spreadsheets/d/1snTo5ugYSzR9y3x4gszs5cogbkNpBrRCgzJD2esGHhA/edit?usp=sharing) with mentor
 
 Review CAP Ticket Processes with mentor:
