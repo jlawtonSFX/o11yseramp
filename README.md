@@ -118,6 +118,7 @@ Study demo and Certify with your mentor and manager on Splunk Synthetics
 
 Slack Channels (for questions and assistance)
 - #se-private-o11y
+- #o11y-sales
 - #o11y-security
 - #seal
 
