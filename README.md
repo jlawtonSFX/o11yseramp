@@ -90,6 +90,7 @@ Review [Splunk On Call Deal Process](https://docs.google.com/presentation/d/1D9u
 Shadow at least 3 Splunk On Call customer meetings
 
 Review Splunk On-Call Competitive Content
+> Make sure you are logged into Okta before accessing
 - [xMatters](https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-xMatters.html)
 - [PagerDuty](https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-PagerDuty.html)
 - [OpsGenie](https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-OpsGenie.html)
