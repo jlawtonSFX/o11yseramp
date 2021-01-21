@@ -124,4 +124,4 @@ Review SWAT Ticket Processes with mentor
 
 Review Feed Ticket Processes with mentor
 
-Review Splunk Ideas (feature requests) processes with mentor
+Review [Splunk Ideas](https://ideas.splunk.com/) (feature requests and enhancements) processes with mentor
