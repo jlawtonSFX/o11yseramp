@@ -10,7 +10,7 @@ Meet your mentor assigned by your manager
 
 Begin practicing [Gold Standard Demo Script](https://docs.google.com/document/d/1rpNwGcGnSi85uK9cGsfXYZiPH0b8OyYwsfcU0Ig47nQ/edit?usp=sharing)
 
-[Gold Demo Recording](https://events.splunk.com/Observability-Demo?_lrsc=2ed6a1a2-ea9d-4284-97d2-10609d51aac7&trk=li-leap&)
+Review [Gold Demo Recording](https://events.splunk.com/Observability-Demo?_lrsc=2ed6a1a2-ea9d-4284-97d2-10609d51aac7&trk=li-leap&)
 
 Shadow at least 3 customer meetings (any focus)
 
