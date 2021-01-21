@@ -76,7 +76,7 @@ Review Splunk On Call Demos:
 - [Gold Demo](https://victorops.hubs.vidyard.com/watch/EbKG89f4Zce46ZfU9i2yk8)
 
 Review [Splunk On Call Gold Demo Script](https://docs.google.com/document/d/16B1iHe_ML-XXd0YJyXhaNY9wmDwLuQU6fa2_49WqRfY/edit#)
-Study demo and Certify with your mentor on Splunk On Call
+- Study demo and Certify with your mentor on Splunk On Call
 
 Review [Splunk Synthetics Overview](https://splunk.zoom.us/rec/play/ZqDBb5OnuyAU2kM7EsEZbowkZvsi6UQjLFEc96ik3VV8DxzDCYnq1BahYl60Oa_lqFXkLzRtC2L_Ck7x.WWOiukXT4WLMsxjt?startTime=1611168335000)
 
