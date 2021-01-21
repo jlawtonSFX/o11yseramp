@@ -66,7 +66,7 @@ Shadow at least 3 APM customer meetings
 
 Review [APM Competitive Material](https://learning.splunk.com/learn/course/3049/play/15660/signalfx-infrastructure-monitoring-apm-competitors-cec-course)
 
-[Install APM to monitor a sample application on your local machine](https://github.com/jlawtonSFX/o11yseramp/tree/main/Week%203)
+[Install APM to monitor a sample application on your local machine](https://github.com/jlawtonSFX/o11yseramp/tree/main/Week%203/Instrumenting%20Ruby%20With%20Splunk%20APM)
 - Review w/ Mentor
 
 Complete the [Observability for Modern Apps Workshop (Monitoring as Code, uAPM, and Service Bureau Modules)](https://signalfx.github.io/observability-workshop/latest/)
