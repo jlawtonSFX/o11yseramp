@@ -96,7 +96,7 @@ Review Splunk On-Call Competitive Content
 - [OpsGenie](https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-OpsGenie.html)
 - [ServiceNow](https://fieldenablement.splunk.com/en/Competitive/Comp-OPS-MGMT-ServiceNow.html)
 
-Complete the [Observability for Modern Apps Workshop (All On Call Modules)](https://signalfx.github.io/observability-workshop/latest/oncall/getting_started/)
+Complete the [Observability for Modern Apps Workshop (All "On Call" Modules)](https://signalfx.github.io/observability-workshop/latest/oncall/getting_started/)
 - Review w/ Mentor
 
 Review Splunk On Call Demos:
