@@ -20,7 +20,7 @@ Study and certify with mentor and manager on [Service Bureau demo](https://drive
 
 # Week 2 - Infrastructure Metric Monitoring
 
-Slack Channels (for questions and assitance)
+Slack Channels (for questions and assistance)
 - #se-private-o11y
 - #o11y-gdi
 - #o11y-support-internal
@@ -48,7 +48,7 @@ Certify with your mentor and manager on the architecture portion of the POV
 
 # Week 3 - Application Performance Monitoring
 
-Slack Channels (for questions and assitance)
+Slack Channels (for questions and assistance)
 - #se-private-o11y
 - #o11y-gdi
 - #o11y-support-internal
@@ -74,7 +74,7 @@ Complete the [Observability for Modern Apps Workshop (Monitoring as Code, uAPM, 
 
 # Week 4 - Splunk On Call & Synthetics
 
-Slack Channels (for questions and assitance)
+Slack Channels (for questions and assistance)
 - #se-private-o11y
 - #o11y-gdi
 - #o11y-support-internal
