@@ -32,7 +32,7 @@ Review recording of [Architecture presentation](https://drive.google.com/file/d/
 
 [Architecture POV Slide](https://docs.google.com/presentation/d/109NBgJjxeLxza3SBr0_jrBA610eIcat3HZXwArseh94/edit?usp=sharing)
 
-Install the Splunk O11y [Smart Agent](https://github.com/signalfx/signalfx-agent#signalfx-smart-agent) on your local machine and see the current metrics of your MacBook in Splunk IMM
+Install the Splunk O11y [Smart Agent](https://github.com/jlawtonSFX/o11yseramp/tree/main/Week%202/Kubernetes%20Advanced%20Installation) on your local machine and see the current metrics of your MacBook in Splunk IMM
 - Review w/ Mentor
 
 Review with mentor the following topics:
