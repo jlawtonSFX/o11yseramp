@@ -19,6 +19,14 @@ Deliver Gold Standard Demo for certification to your team and manager
 Study and certify with mentor and manager on [Service Bureau demo](https://drive.google.com/file/d/1E-vrAJJapu078wnn9Uy3ykthgHI2b6NX/view?usp=sharing)
 
 # Week 2 - Infrastructure Metric Monitoring
+
+Slack Channels (for questions and assitance)
+- #se-private-o11y
+- #o11y-gdi
+- #o11y-support-internal
+- #o11y-product
+- #signalfx
+
 Review recording of [Architecture presentation](https://drive.google.com/file/d/1FARqNRVBQgsmQpLH-w3rX2hJFB1BioTs/view?usp=sharing)
 
 [Architecture POV Slide](https://docs.google.com/presentation/d/109NBgJjxeLxza3SBr0_jrBA610eIcat3HZXwArseh94/edit?usp=sharing)
@@ -38,6 +46,15 @@ Complete the [Observability for Modern Apps Workshop (Get Data In, Dashboards, a
 Certify with your mentor and manager on the architecture portion of the POV
 
 # Week 3 - Application Performance Monitoring
+
+Slack Channels (for questions and assitance)
+- #se-private-o11y
+- #o11y-gdi
+- #o11y-support-internal
+- #o11y-product
+- #apm
+- #apm-engineering
+
 Review [APM Training Videos](https://drive.google.com/drive/folders/1vUbI_xbPe5J9HVdhAPSglX3kVI2g9NEb?usp=sharing)
 
 Review [APM Deployment Architecture](https://docs.signalfx.com/en/latest/apm/apm-getting-started/apm-architecture-overview.html#deploy-the-smart-agent-for-splunk-apm)
@@ -55,6 +72,16 @@ Complete the [Observability for Modern Apps Workshop (Monitoring as Code, uAPM, 
 - Review w/ Mentor
 
 # Week 4 - Splunk On Call & Synthetics
+
+Slack Channels (for questions and assitance)
+- #se-private-o11y
+- #o11y-gdi
+- #o11y-support-internal
+- #o11y-product
+- #synthetics-product
+- #vo-team-datascience
+- #rigor-sales
+
 Review [Splunk On Call Preso](https://docs.google.com/presentation/d/1ZRD7Lz6-MAFAgKwQhX8mxYEe0SOEHJoeByLxwQ1onYc/edit#slide=id.p1)
 
 Review [Splunk On Call Deal Process](https://docs.google.com/presentation/d/1D9uqbuIBfxVCwcwJ4vTNfD326h2LL2Vj5GQdutIR6Jc/edit)
