@@ -26,6 +26,7 @@ Slack Channels (for questions and assitance)
 - #o11y-support-internal
 - #o11y-product
 - #signalfx
+- #sfx-competition
 
 Review recording of [Architecture presentation](https://drive.google.com/file/d/1FARqNRVBQgsmQpLH-w3rX2hJFB1BioTs/view?usp=sharing)
 
