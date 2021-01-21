@@ -55,6 +55,7 @@ Slack Channels (for questions and assistance)
 - #o11y-product
 - #apm
 - #apm-engineering
+- #opentelemetry
 
 Review [APM Training Videos](https://drive.google.com/drive/folders/1vUbI_xbPe5J9HVdhAPSglX3kVI2g9NEb?usp=sharing)
 
