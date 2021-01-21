@@ -42,7 +42,7 @@ Review with mentor the following topics:
 
 Shadow at least 3 IMM focused customer meetings
 
-Complete the [Observability for Modern Apps Workshop (Get Data In, Dashboards, and Detectors Modules)](https://signalfx.github.io/observability-workshop/latest/)
+Complete the [Observability for Modern Apps Workshop (Get Data In, Dashboards, and Detectors Modules)](https://signalfx.github.io/observability-workshop/latest/smartagent/)
 
 Certify with your mentor and manager on the architecture portion of the POV
 
@@ -69,7 +69,7 @@ Review [APM Competitive Material](https://learning.splunk.com/learn/course/3049/
 [Install APM to monitor a sample application on your local machine](https://github.com/jlawtonSFX/o11yseramp/tree/main/Week%203/Instrumenting%20Ruby%20With%20Splunk%20APM)
 - Review w/ Mentor
 
-Complete the [Observability for Modern Apps Workshop (Monitoring as Code, uAPM, and Service Bureau Modules)](https://signalfx.github.io/observability-workshop/latest/)
+Complete the [Observability for Modern Apps Workshop (Monitoring as Code, uAPM, and Service Bureau Modules)](https://signalfx.github.io/observability-workshop/latest/smartagent/)
 - Review w/ Mentor
 
 # Week 4 - Splunk On Call & Synthetics
