@@ -4,7 +4,7 @@ The purpose of this plan is to assist you with establishing the key elements tha
 # Week 1 - Gold Standard Demo
 Complete all items in [New SE First Week Checklist](https://signalfuse.atlassian.net/wiki/spaces/SE/pages/890667257/New+SE+First+Week+Checklist)
 
-Confirm manager has assigned you an account on our demo environment: [SF Demo](http://sfdemo.signalfx.com)
+Confirm your manager has assigned you an account on our demo environment: [SF Demo](http://sfdemo.signalfx.com)
 
 Meet your mentor assigned by your manager 
 
